@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **E-Commerce Website**
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **Backend development**
 
 - 💬 Ask me about **React, JavaScript, Python, MongoDB, jQuery, Second Brain and PKM management**
 
