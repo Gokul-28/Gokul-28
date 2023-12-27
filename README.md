@@ -7,7 +7,6 @@
 
 - 💬 Ask me about **React, JavaScript, Python, MongoDB, jQuery, Second Brain and PKM management**
 
-- 📫 How to reach me **gokuls28@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
