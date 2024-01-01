@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Backend development**
 
-- 💬 Ask me about **React, JavaScript, Python, MongoDB, jQuery, Second Brain and PKM management**
+- 💬 Ask me about **React, JavaScript, typescript, Python, MongoDB, jQuery, Second Brain and PKM management**
 
 
 <h3 align="left">Connect with me:</h3>
